@@ -4,7 +4,7 @@ I am currently  a Postdoctoral researcher at [Max-Planck-Institut für Entwickl
 
 [My résumé.](Kalirad_CV_2021.pdf)
 
-Below, I describe some of the biological phenomena that I found deeply fascinating over the years and my attempts to contribute to our scientific understanding of these phenomena. 
+Below, I describe some of the biological phenomena that I have found deeply fascinating over the years and my attempts to contribute to our scientific understanding of them. 
 
 ### The dynamics of genetic incompatibilities
 
