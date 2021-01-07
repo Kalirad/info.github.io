@@ -18,7 +18,7 @@ Our approach is based on a model RNA secondary structure (specifically, [the Vie
 
 We then used this landscape to see how incompatibilities accumulate during divergence. In Orr's [original paper](https://www.genetics.org/content/139/4/1805.short), he assumes that genetic incompatibilities of different order - i.e., those that involve two loci, versus those that involve many more loci - accumulate independently of each other, and, once a genetic incompatibility arises, it will linger. Our simulations show that, at least in a highly-epistatic system, the order of incompatibilities can change over time. For example, an incompatibility involving two loci might later involve three or more loci or simply disappear. 
 
-We modified Orr's original model. Our new model, christened as *the spiraling complexity* model (B), includes conversions of incompatibilities of different orders into one another, while Orr's original (B), assumes that these incompatibilities arise independently. 
+We modified Orr's original model. Our new model, christened as *the spiraling complexity* model (B), includes conversions of incompatibilities of different orders into one another, while Orr's original (A), assumes that these incompatibilities arise independently. 
 
 ![Image](F6.large.jpg)
 
