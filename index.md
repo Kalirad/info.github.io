@@ -4,28 +4,17 @@ I am currently  a Postdoctoral researcher at [Max-Planck-Institut für Entwickl
 
 [My résumé.](Kalirad_CV_2021.pdf)
 
-Below, I describe some of the biological phenomena that I have found deeply fascinating over the years and my attempts to contribute to our scientific understanding of them. 
+## Selected publications 
 
-### The dynamics of genetic incompatibilities
-
-During my PhD, I became fascinated by how genetic incompatibilities accumulate between diverging lineages. This biological question has had a long history; even Darwin was puzzled by the existence of sterile hybrids between different species. Why would natural selection allow the production of sterile hybrids? 
-
-Genetic incompatibilities provide one answer to this puzzle: beneficial or neutral mutations can fix during divergence of two populations and these mutations could turn out to be incompatible - i.e., result in inviable or sterile offspring - when brought together. A famous example of a genetic incompatiblity is a simple DM incompatibility between *D. melanogaster* and *D. simulans.* The two derived versions of ancestral alleles, *Lhr* and *Hmr*, which are located at different loci, are functional in *D. simulans* and *D. melanogaster* respectively, but are deleterious when brought together in the hybrid.
-
-![Image](Fig_DMI_in_drosophila.png)
-(Image from *Kalirad (2016), A Test of the Snowball Model, Published ETD Collection, University of Houston*)
-
-During my PhD, I tried to extend the theoretical framework in which incompatibilities are studied. Our approach is based on a model RNA secondary structure (specifically, [the ViennaRNA package](https://www.tbi.univie.ac.at/RNA/)): We randomly generate a RNA sequence, then use it as our yardstick to measure the fitness of other RNA sequences in that genotypic landscape. If the secondary structure of a RNA sequences *i* is close enough to the structure of our yardstick, within a given threshold, we consider *i* to be viable. In our "holey" fitness landscape, there are only viable and inviable genotypes. Figure below depicts a portion of such landscape, where the reference RNA sequence - our yardstick - is in a yellow circle, inviable sequences are in red, and viable ones in grey circles.
-
+### Spiraling Complexity: A Test of the Snowball Effect in a Computational Model of RNA Folding, Kalirad and Azevedo, 2017, _Genetics_
 
 ![Image](Cover_LR.png)
 
-We then used this landscape to see how incompatibilities accumulate during divergence. In Orr's [original paper](https://www.genetics.org/content/139/4/1805.short), he assumes that genetic incompatibilities of different order - i.e., those that involve two loci, versus those that involve many more loci - accumulate independently of each other, and, once a genetic incompatibility arises, it will linger. Our simulations show that, at least in a highly-epistatic system, the order of incompatibilities can change over time. For example, an incompatibility involving two loci might later involve three or more loci or simply disappear. 
+**Abstract**
 
-We modified Orr's original model. Our new model, christened as *the spiraling complexity* model (B), includes conversions of incompatibilities of different orders into one another, while Orr's original (A), assumes that these incompatibilities arise independently. 
+>Genetic incompatibilities can emerge as a byproduct of genetic divergence. According to Dobzhansky and Muller, an allele that fixes in one population may be incompatible with an allele at a different locus in another population when the two alleles are brought together in hybrids. Orr showed that the number of Dobzhansky-Muller incompatibilities (DMIs) should accumulate faster than linearly—i.e., snowball—as two lineages diverge. Several studies have attempted to test the snowball effect using data from natural populations. One limitation of these studies is that they have focused on predictions of the Orr model, but not on its underlying assumptions. Here, we use a computational model of RNA folding to test both predictions and assumptions of the Orr model. Two populations are allowed to evolve in allopatry on a holey fitness landscape. We find that the number of inviable introgressions (an indicator for the number of DMIs) snowballs, but does so more slowly than expected. We show that this pattern is explained, in part, by the fact that DMIs can disappear after they have arisen, contrary to the assumptions of the Orr model. This occurs because DMIs become progressively more complex (i.e., involve alleles at more loci) as a result of later substitutions. We also find that most DMIs involve >2 loci, i.e., they are complex. Reproductive isolation does not snowball because DMIs do not act independently of each other. We conclude that the RNA model supports the central prediction of the Orr model that the number of DMIs snowballs, but challenges other predictions, as well as some of its underlying assumptions.
 
-![Image](F6.large.jpg)
+[https://doi.org/10.1534/genetics.116.196030](https://www.genetics.org/content/206/1/377)
 
-For a through description of our model, check out the paper in [*Genetics*]((kalirad17a.pdf)), written in collaboration with my former PI, the inimitable Ricardo Azevedo. 
 
 
