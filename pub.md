@@ -14,4 +14,12 @@
 [https://doi.org/10.1534/genetics.116.196030](https://www.genetics.org/content/206/1/377)
 
 
+### Noise-driven cell differentiation and the emergence of spatiotemporal patterns, Safdari et al., 2020, _PLOS ONE_
 
+![Image](cell_fate.png)
+
+**Abstract**
+
+> The emergence of phenotypic diversity in a population of cells and their arrangement in space and time is one of the most fascinating features of living systems. In fact, understanding multicellularity is unthinkable without explaining the proximate and the ultimate causes of cell differentiation in time and space. Simpler forms of cell differentiation can be found in unicellular organisms, such as bacterial biofilm, where reversible cell differentiation results in phenotypically diverse populations. In this manuscript, we attempt to start with the simple case of reversible nongenetic phenotypic to construct a model of differentiation and pattern formation. Our model, which we refer to as noise-driven differentiation (NDD) model, is an attempt to consider the prevalence of noise in biological systems, alongside what is known about genetic switches and signaling, to create a simple model which generates spatiotemporal patterns from bottom-up. Our simulations indicate that the presence of noise in cells can lead to reversible differentiation and the addition of signaling can create spatiotemporal pattern.
+
+[https://doi.org/10.1371/journal.pone.0232060](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232060)
