@@ -1,4 +1,4 @@
-[bio](index.md) :: [CV](Kalirad_CV_2021.pdf) :: [Seleted Publications](pub.md)
+[bio](index.md) :: [CV](Kalirad_CV_2022_summ.pdf) :: [Seleted Publications](pub.md)
 
 ## Ata Kalirad
 
