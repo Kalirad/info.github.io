@@ -1,7 +1,18 @@
 
-[bio](index.md) :: [CV](Kalirad_CV_2021.pdf) :: [Seleted Publications](pub.md)
+[bio](index.md) :: [CV](Kalirad_CV_2021.pdf) :: [Seleted
+Publications](pub.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en)
 
 ## Selected publications 
+
+### The role of plasticity and stochasticity in coexistence, Kalirad and Sommer, 2024, _Ecology Letters_ 
+
+![Image](pripop.png)
+
+**Summary**
+
+This research uses the nematode \emph{Pristionchus pacificus} to explore how phenotypic plasticity, specifically in mouth form, and stochasticity influence species coexistence. The study integrates laboratory experiments measuring plasticity and fecundity under different diets with an individual-based model (PriPOP) to simulate competition between \emph{P. pacificus} strains. Results suggest that while phenotypic plasticity alone leads to competitive exclusion, the addition of stochasticity in founder populations allows for more complex dynamics, potentially enabling coexistence in a metapopulation setting. The findings challenge traditional coexistence theories by highlighting the significant role of stochasticity and individual variation in shaping community structure. The research also introduces PriPOP as a novel modeling framework for incorporating experimental data and multiple sources of stochasticity in ecological studies.
+
+[link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14370)
 
 ### Spiraling Complexity: A Test of the Snowball Effect in a Computational Model of RNA Folding, Kalirad and Azevedo, 2017, _Genetics_
 
