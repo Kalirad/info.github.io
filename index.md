@@ -15,5 +15,4 @@ _Pristionchus_.
 
 _A photo from a cozy hotel in Titisee-Neustadt, taken in Winter 2024._ 
 
-
-<a href="./html/intro.html" title="ISL sketchbook">ISL sketchbook</a>
+<a href="./_build/html/intro.html" title="ILS notebook">ILS notebook</a>
