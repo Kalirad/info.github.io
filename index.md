@@ -1,5 +1,5 @@
-[home](index.md) :: [resources](resources.md) :: [Seleted Publications](pub.md) :: [Google
-Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf)
+[Home](index.md) :: [Selected Publications](pub.md) ::
+[Resources](resources.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf)
 
 ## Ata Kalirad
 
