@@ -1,4 +1,5 @@
-[bio](index.md) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Seleted Publications](pub.md)
+[bio](index.md) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Seleted Publications](pub.md) :: [Google
+Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en)
 
 ## Ata Kalirad
 
