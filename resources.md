@@ -8,3 +8,8 @@ scientific ideas.
 + [The ISL sketchbook](https://kalirad.github.io/ISL_sketchbook/intro.html)
   : A companion to _An Introduction to Statistical Learning_ by James et
   al. that contains notes and analyses based on this great book.
+
++ [Bayesian
+  reveries](https://kalirad.github.io/BayesianReveries/intro.html): A
+  collection of ideas and methods to apply Bayesian statistics to
+  scientific problems.
