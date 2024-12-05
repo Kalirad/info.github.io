@@ -1,7 +1,7 @@
 [Home](index.md) :: [Selected Publications](pub.md) ::
 [Resources](resources.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf)
-
-## Ata Kalirad
+<!-- 
+## Ata Kalirad -->
 
 I am evolutionary biologist, currently a Postdoctoral researcher at
 [Max-Planck-Institut für Biologie Tübingen](). I am fascinated by the diversity of
