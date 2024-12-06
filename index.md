@@ -1,7 +1,6 @@
-[Home](index.md) :: [Selected Publications](pub.md) ::
-[Resources](resources.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf)
+[Home](index.md) :: [Selected Publications](pub.md) :: [Resources](resources.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Presentations](presentations.md) 
 
-I am evolutionary biologist, currently a Postdoctoral researcher at
+I am an evolutionary biologist, currently a Postdoctoral researcher at
 [Max-Planck-Institut für Biologie Tübingen](). I am fascinated by the diversity of
 life on earth and the fundamental processes that have driven the multitude
 of living forms. This fascination has led me to try to understand
