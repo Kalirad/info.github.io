@@ -5,6 +5,9 @@
 Here is a list of resources I have created to explore statistical and
 scientific ideas. 
 
++ [Spinning or Explaining?](./presentations/oct_16_2020.pdf)
+  : This is a talk I gave at symposium on neuroscience in October 2020. 
+
 + [Data, knowledge, and information](./presentations/COVID-19_PublicLectur_9_4_2020.pdf)
   : This is a talk I gave at the banging of the COVID pandemic in April 2020. 
   
