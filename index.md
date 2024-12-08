@@ -1,4 +1,4 @@
-[Home](index.md) :: [Selected Publications](pub.md) :: [Resources](resources.md) :: [![Image](./assets/Google_Scholar_logo.png)]([link_url](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en)) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Presentations](presentations.md) :: [Outreach](outreach.md) 
+[Home](index.md) :: [Selected Publications](pub.md) :: [Resources](resources.md) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Presentations](presentations.md) :: [Outreach](outreach.md) :: [![Image](./assets/Google_Scholar_logo.png)](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) 
 
 I am an evolutionary biologist, currently a Postdoctoral researcher at
 [Max-Planck-Institut für Biologie Tübingen](). I am fascinated by the diversity of
