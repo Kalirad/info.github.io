@@ -1,4 +1,4 @@
-[Home](index.md) :: [Selected Publications](pub.md) :: [Resources](resources.md) :: [Google Scholar](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Presentations](presentations.md) 
+[![Image](./assets/home.png)](index.md) :: [Selected Publications](pub.md) :: [Resources](resources.md) :: [CV](CV_Ata_Kalirad_Nov2024.pdf) :: [Presentations](presentations.md) :: [Outreach](outreach.md) :: [![Image](./assets/Google_Scholar_logo.png)](https://scholar.google.com/citations?user=phcVCbAAAAAJ&hl=en) :: [![Image](./assets/link_logo.png)](https://www.linkedin.com/in/ata-kalirad-1692b873)
 
 ## Resources
 
