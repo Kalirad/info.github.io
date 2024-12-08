@@ -18,7 +18,7 @@ Given all these fascinating social and political issues related to the fox exper
 After finishing _How to Tame a Fox_, I became such a fan that I decided to translate the book into Persian, my mother tongue. I contacted Lee and he promptly and graciously agreed. Through a friend in Iran, I contacted Fatemi publishing house in Iran and they agreed to publish the translation. (I have to go on a small tangent here: having this work published by Fatemi publication was quite uplifting on two accounts; they are a renowned publishing house in Iran, specialised in publishing scientific and popular science books, and I had spent many years in my childhood reading popular science books published by them, including a box set of Isaac Asimov’s _How Did We Find Out_ series. This box set, which I still have, was bought by my father after I went through a grueling bout of the flu to cheer me up, and as far as I recall, I was happy beyond belief after receiving it!)
 
 
-![Image](./figures/covers.webp)
+![Image](./figures/covers.png)
 
 _The original cover and the cover of the Persian translation of How to Tame a Fox._
 
