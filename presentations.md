@@ -5,10 +5,8 @@
 Here is a list of resources I have created to explore statistical and
 scientific ideas. 
 
-+ [The role of phenotypic plasticity in the ecological
-  theatre](./presentations/MMEE2024.pdf)
-  : A talk delivered at the [MMEE
-  20204](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in
++ [The role of phenotypic plasticity in the ecological theatre](./presentations/MMEE2024.pdf)
+  : A talk delivered at the [MMEE 20204](https://ps-mathematik.univie.ac.at/e/index.php?event=mmee2024) in
   Vienna, July 2024.
 
 
